@@ -14,7 +14,7 @@ const StripeCheckoutButton = ({ price }) => {
     return (
         <StripeCheckout
             label='Pay Now'
-            name='THREADfin Clothing Ltd.'
+            name='Momo-Botan'
             billingAddress
             shippingAddress
             image='https://svgshare.com/i/CUz.svg'
