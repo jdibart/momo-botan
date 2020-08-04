@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/momo-botan/static/css/main.e35977b5.chunk.css",
+    "main.js": "/momo-botan/static/js/main.68eee1c2.chunk.js",
+    "main.js.map": "/momo-botan/static/js/main.68eee1c2.chunk.js.map",
+    "runtime-main.js": "/momo-botan/static/js/runtime-main.c7dce079.js",
+    "runtime-main.js.map": "/momo-botan/static/js/runtime-main.c7dce079.js.map",
+    "static/js/2.61dcc89b.chunk.js": "/momo-botan/static/js/2.61dcc89b.chunk.js",
+    "static/js/2.61dcc89b.chunk.js.map": "/momo-botan/static/js/2.61dcc89b.chunk.js.map",
+    "index.html": "/momo-botan/index.html",
+    "precache-manifest.ba4552137efe07ff7944080d4ef24996.js": "/momo-botan/precache-manifest.ba4552137efe07ff7944080d4ef24996.js",
+    "service-worker.js": "/momo-botan/service-worker.js",
+    "static/css/main.e35977b5.chunk.css.map": "/momo-botan/static/css/main.e35977b5.chunk.css.map",
+    "static/js/2.61dcc89b.chunk.js.LICENSE.txt": "/momo-botan/static/js/2.61dcc89b.chunk.js.LICENSE.txt",
+    "static/media/flower.0b5bd64f.svg": "/momo-botan/static/media/flower.0b5bd64f.svg",
+    "static/media/shopping-bag.30f07071.svg": "/momo-botan/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7dce079.js",
+    "static/js/2.61dcc89b.chunk.js",
+    "static/css/main.e35977b5.chunk.css",
+    "static/js/main.68eee1c2.chunk.js"
+  ]
+}
